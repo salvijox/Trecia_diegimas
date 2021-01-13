@@ -16,25 +16,25 @@
         "Entry"
         {
         "MsmKey" = "8:_8B78630C73B9315BB73BDFD27AFF951D"
-        "OwnerKey" = "8:_9CB37B8B81524CFD8EBEB4F4FDF7A633"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9CB37B8B81524CFD8EBEB4F4FDF7A633"
-        "OwnerKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D6A2B851C65746E1A3F6DCF96188B7DB"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_B692AECDE35CF802D7E9E58E44DD5A70"
-        "OwnerKey" = "8:_9CB37B8B81524CFD8EBEB4F4FDF7A633"
+        "OwnerKey" = "8:_D6A2B851C65746E1A3F6DCF96188B7DB"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_CC2314002CC7085A3FF0D5478A5AA481"
-        "OwnerKey" = "8:_9CB37B8B81524CFD8EBEB4F4FDF7A633"
+        "OwnerKey" = "8:_D6A2B851C65746E1A3F6DCF96188B7DB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D6A2B851C65746E1A3F6DCF96188B7DB"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -220,7 +220,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Setup"
         "ProductCode" = "8:{9F16CF1A-0FBC-493B-8E25-03769EF8AD7D}"
-        "PackageCode" = "8:{16DE2740-8224-47CE-AC4E-F85BDB03B234}"
+        "PackageCode" = "8:{5DE9AB85-B949-418B-8D77-0AB5A73E0D64}"
         "UpgradeCode" = "8:{C26BF01B-748F-4EB3-AAAE-B1E4D9F6B952}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -340,7 +340,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4CC2A2EF6E424AC9B17A659E68E1D860"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_3D704A34FCB44CBC81B08B8868C874AC"
             {
             "Name" = "8:Shortcut to Primary Output from Studentai (Active)"
             "Arguments" = "8:"
@@ -348,7 +348,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_9CB37B8B81524CFD8EBEB4F4FDF7A633"
+            "Target" = "8:_D6A2B851C65746E1A3F6DCF96188B7DB"
             "Folder" = "8:_3BFF627465F04CED8EA7B7DD5AF1C04C"
             "WorkingFolder" = "8:_C30A3E1715644D0793472695D618D387"
             "Icon" = "8:"
@@ -753,7 +753,7 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_9CB37B8B81524CFD8EBEB4F4FDF7A633"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D6A2B851C65746E1A3F6DCF96188B7DB"
             {
             "SourcePath" = "8:..\\Studentai\\Debug\\Studentai.exe"
             "TargetName" = "8:"

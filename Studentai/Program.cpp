@@ -26,5 +26,13 @@ int main()
         studentai.get_studentai().push_back(studentas);
     }
 
+    auto sorttime = studentai.sortStudentsList();
+
+    cout << "Studentu rusiavimas uztruko: " << sorttime << endl;
+
+    auto time = studentai.divedeStudentsInSameListAndOnlyOneNewList();
+
+    cout << "Studentu skirstymas i gerus ir blogus uztruko: " << time << endl;
+
     return 0;
 }
